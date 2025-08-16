@@ -61,6 +61,7 @@ Introduce "Sponsored Challenges" for brands to engage with users.
 Establish the "Sales Coin Marketplace" for trading coins for real-world prizes and gift cards.
 ///timeline: 3-6 months
 
+The link for the excel is: https://docs.google.com/spreadsheets/d/1_5H53GaEJPyGo_WgSwfmIjDDYABmBkz3a8hz3xJGzKo/edit?usp=sharing
 
 
 
